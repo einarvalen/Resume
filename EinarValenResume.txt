@@ -1,0 +1,282 @@
+                                                   Kvamsvegen 17, 5265 Ytre Arna
+
+Einar Valen                                                               Norway
+                                                              H +47 959 963 25
+                                                          B einar@einarvalen.com
+Software Engeneer                                   Í http://www.einarvalen.com
+
+                    Software development, Software Architecture, Systems
+                                        Integration
+
+
+On top of a Bachelor Degree, I have more than 25 years of professional experience from the IT
+industry – doing consulting and software development work - international project- and contract
+development in a variety of industries: IT & Electronics, Oil & Gas, Construction, Health Care,
+Publishing, Banking & finance, Government ...
+
+Throughout my career, I have had full software life cycle project responsibilities through requirements,
+analysis, design, development, implementation, documentation, user training, maintenance and
+management. I have had lead roles and solo assignments - working on applications such as Enterprise
+Portals, ERP, Logistics, Banking, Business process automation and tracking, Business Intelligence,
+Operations and more.
+
+I started off, programming Cobol and assembler on mainframes/minis, via 4GL and SQL I moved
+on to Unix, C and later Windows, Linux, C++ and Object Orientation. Since 1997 I have accrued
+a varied Java development experience. Over the years I have touche on many development method-
+ologies. Waterfall based at first, later iterative, agile ones. I have international work experience
+from the US, Scandinavia, UK and Australia. I am fluent in English and Scandinavian and also used
+to speak some German.
+
+I am used to high paced, high pressured, work situations. - I am easy to work with and do
+well in mentoring and lead roles. My communication and documentation skills are very good. I like
+a challenge, I am creative and can think outside the box, and I push myself hard to deliver quality
+results on time.
+———
+
+
+
+Einar Valen
+
+
+
+
+                                                                                                    1/7
+               Expertise
+               Programming Languages
+      Expert   Java, C++
+   Advanced    C/C++, Ruby, SQL, HTML, bash
+Intermediate   Javascript, Python, Go, D, Cobol, Assembler, Awk
+       Basic   Groovy, Fortran, Pascal
+               Databases
+   Advanced Oracle, DB2, MySQL/MariaDB
+Intermediate PostgreSQL, Teradata, Netezza, SQL-Server
+       Basic CoachDB, MongoDB
+               Operating Systems
+      Expert Linux
+   Advanced AIX, Solaris, HP-UX
+Intermediate Windows
+               C++ APIs
+  Advanced Poco C++ Libraries
+     Basic ZeroMq, Qt, Boost
+               DevOps Tools
+      Expert   Maven, Puppet, Git
+   Advanced    Ant, Subversion, Make, VirtualBox
+Intermediate   VMware, Jira, Confluence, Jenkins, Docker
+       Basic   Vagrant
+               Java APIs
+      Expert   Spring Framework, Servlets, JDBC, EJB
+   Advanced    JPA, JMS, JAX-WS, JAX-RS, Cxf, Axis
+Intermediate   Hibernate, Play Framework, Ebean, Netty, JAXB, Jmx, Awt, Velocity
+       Basic   Portlets, JAAS, Struts, Swing
+               Backend Technology
+      Expert   SOA, jBoss, Tomcat, WebSphere AS, OpenMq
+   Advanced    Jetty, ActiveMq, WebSphere-Mq
+Intermediate   Mule/ESB, WebSphere PS, IBM Content Manager, OC4J
+       Basic   WebLogic, Oracle Access manager
+
+
+
+
+                                                                                   2/7
+             WEB Technology
+   Advanced REST, SOAP, XML, HTML, Json, Javascript
+Intermediate CSS, Dojo, Httpd, JSP, SAML
+    Learning AngularJS
+             Testing Tools
+      Expert jUnit
+   Advanced Googletest(C++), Easymock, Mocito
+Intermediate Valgrind, Cucumber
+             Development methods
+      Expert Test-Driven-Development
+   Advanced Scrum, Data Modelling
+Intermediate UML, Kanban
+
+             Education
+ 1983-1985 Business College, Høgskulen i Telemark, Norway,
+           "Høgskolekandidat IT", US equivalent: B.A. Computer Science.
+             Major in IT, minor in Marketing
+             www.hit.no/english
+ 1979,1986 University, University of Bergen, Norway,
+           Undergraduate level cources.
+             in IT and business
+             www.uib.no/en
+ 1980-1981 Military academy, Sjøforsvarets Gymnastikkskule, Norway,
+           Navy officer.
+             Major in PE
+             www.mil.no/sjo/start
+
+             Certifications
+      2007 Sun Certified Business Component Developer (SCBCD)
+      2002 Sun Certified Java Programmer (SCJP)
+      2001 IBM WebSphere Application Server Specialist
+
+             Courses
+      2010   Clean code with Robert C Martin
+      2009   MuleESB
+      2004   IBM WebSphere Studio Application Developer 5
+      2002   IBM DB2 Content Manager & Enterprise Information Portal 7.2
+      2002   IBM WebSphere Portal Server 4.1
+             ...
+
+
+
+
+                                                                           3/7
+             Employment
+             Vocational
+08.05-present Software Engeneer, Self employed, Norway,
+              www.einarvalen.com.
+             Clients: Evry (software services), Tv2 (media), Intelcom (software), Bergen kommune
+             (government), Nav (social security), Norsk Eiendomsinformasjon (software services) DnB
+             (finance), Watts Water Technology, Statens Vegvesen.
+ 10.03-07.05 Chief Consultant, Ementor, Norway,
+             www.ementor.com.
+             Contract software development for clients: DnB (banking), Ren(energy).
+ 11.00-10.03 Senior Consultant, Spherion Technology, Phoenix, AZ, USA,
+             www.spherion.com.
+             Software development for clients: American Express, ADOT (government), Kaiser Perma-
+             nente (health care) Boston Market (catering)
+ 08.99-10.00 Software Engineer, Scase, Norway,
+             www.scase.no.
+             Software development in-house and for clients. Clients: Haukeland sykehus (health care),
+             Norcem (construction), Gilde (food industry).
+ 10.93-10.99 Senior Consultant, i-Com, Norway,
+             Out of business.
+             Roles: Project manager, Product manager, Software development. Clients: Statoil (oil and
+             gas), Hewlett&Packard
+ 10.91-10.93 Systemplanlegger, City of Bergen, Norway,
+             www.bergen.kommune.no.
+             Roles: IT manager, project manager.
+ 07.85-10.91 Consultant, Senior Consultant, Datatjenester, Norway,
+             Out of business.
+             Software development in-house and for clients. Clients: Mobil Oil, Capelen (publisher)
+             Miscellaneous
+ 07.82-10.82 Instructor, Skilltrec -School of Hill Skills, NSW, Australia,
+             Out of business.
+             Skiinstruction
+ 07.79-06.82 Fenrik (2nd lieutenant), Norwegian armed forces, Physical training officer,
+             forsvaret.no.
+
+
+
+
+                                                                                                  4/7
+               Resent Assignments
+   01.10.19-   ATEA, Norway, – Nordic IT infrastructure company .
+  21.11.19 -   Java development. Making a working prototype ready for microservices cloud deployment
+ project was   and continous delivery.
+    stopped    Technology: Spring Boot, Docker, Azure DevOps, Terraform, Vault, Consul, PostgreSQL
+               URL: www.atea.com
+               Reference: Tore Pehrsson, tore.pehrsson@atea.no +47 982 16 523
+02.15-present Statens Vegvesen, Norway, – Norwegian Public Roads Administration.
+               DevOps assignment: - Devloping automation solutions for provisioning of Linux and Window
+               servers, setup of Tomcat-, Httpd and datasources, - selfservice application deploy and secrets
+               handling. Including also a set of supporting services.
+               Technology: RHEL, Apache Http-server, Tomcat, Mcollective/ActiveMq, Puppet, Bash,
+               Groovy, Ruby, Python, Javascript/Typescript, Angular, D, Go, Java, MariaDB, Oracle, Git,
+               Docker
+               URL: www.vegvesen.no/en/Home
+               Reference: Geir Hestad, geir.hestad@vegvesen.no +47 474 14 626
+ 09.14-01.15 Watts Water Technologies, Amsterdam, Netherlands, – Manufacturing.
+               Data integration for Data Mart project and Master Data Management project.
+               Technology: Global manufacturing enterprise, Paralell-databases,Netezza, SQL, IBM-
+               Information Server, WebSphere, Datastage, MDM, Datawarehouse
+               URL: www.wattswater.com
+               Reference: Tore Pehrsson, tore.pehrsson@intelcom.no +47 982 16 523
+ 04.14-10.14 DnB, Norway, – Banking.
+               Analysis and tuning of Teradata sql-scripts in performance critical ETL jobs.
+               Technology: Financial corporation, Paralell-databases, Teradata, SQL, Datastage,
+               Datawarehouse
+               URL: www.dnb.no
+               Reference: Henning Larsen, henning.larsen@intelcom.no +47 986 90 548
+ 04.14-08.14 Intelcom, Norway, – Software.
+               Helped transition C++ project into Test-Driven-Development - writing C++ unit tests and
+               mentoring project team in TDD. Also aided in Java-EE backend architecture assessment.
+               Technology: C++, google-test, Poco, Java-EE
+               URL: www.intelcom.no
+               Reference: gaute Heimstad, gaute.heimstad@intelcom.no +47 982 172 34
+ 09.13-03.14 Norsk Eiendomsinformasjon, Norway, – Software services.
+               Development of a WebService API for internal and commersial use.
+               Technology: Java, Play framework, Ebean, SQL, Linux, Soap web services.
+               URL: www.eiendomsinfo.no
+               Reference: Terje Samdal tsa@eiendomsinfo.no + 47 915 38 171, Martin Borthen,
+               mbo@eiendomsinfo.no +47 563 311 60
+ 02.13-07.13 Evry Financial Services, Norway, – Software services.
+               Bank system development. Hired to augment a team of developers rewriting an outdated
+               Cobol based banking back-end to Java.
+               Technology: Java, Spring, Camel, Soap Web-Services, Oracle DB, JPA, Jms, WebsphereMq,
+               Git
+               URL: www.evry.com/it-services/financial-services
+               Reference: Geir Willy Rogde, gwrogde@gmail.com +47 932 877 71, Jon Harald Øymyr,
+               Jon.Harald.Oymyr@evry.com> +47 957 23475
+
+
+
+
+                                                                                                        5/7
+11.12-01.13 TV2, Norway, – media.
+            Part of a team, assembled by Evry, to suggest, prototype and evaluate various software
+            architecture scenarios for a new software platform for the TV network.
+            Technology: Java, JEE, Spring, ActiveMq, Camel, Mule, Glassfish, Jetty, Jms, Rest (JAX-
+            RS), RSS, Oracle XMLDB, Xquery, RDF, Jena
+            URL: www.tv2.no
+            Reference: Sandvik Oddmar, Oddmar.Sandvik@evry.com +47 954 956 10
+01.12-10.12 Intelcom, Norway, – IT’.
+            Development team coaching and software architecture. Helped select, and built the founda-
+            tion software architecture for the new generation of their iKnow software. Trained the team
+            in Test Driven Development, new tool-set and Scrum agile methodology.
+            Technology: Java, Scrum, Test Driven Development, Git, Maven, Spring, JPA, Hibernate,
+            Rest, Netty, C++, Poco, ZeroMq, Javascript, Dojo
+            URL: www.intelcom.no
+            Reference: Tore Pehrsson, tore.pehrsson@intelcom.no +47 982 165 23
+
+
+
+
+                                                                                                  6/7
+09.07-01.12 City of Bergen, Norway, – Local government.
+            Contract development for the city government IT department, establishing an open source
+            based platform for Service Oriented Architecture:
+            URL: www.bergen.kommune.no
+            Reference: Steinar Carlsen, Steinar.Carlsen@bergen.kommune.no +47 926 994 43
+            Technology: Enterprise Java, Spring, Scrum, Test Driven Development, Git, Maven, Linux,
+            Jboss, OpenMq, Mule, Oracle, Apache, Grails
+            Technical lead developer roles for following sub-assignments:
+            { Legacy systems integration (ldap, ftp, jdbc, jms, ssh, pop, soap, rest),
+            { Federated Single Sign On (saml, pki, Altin, Minid, Oracle Access Manager),
+            { Business process automation (SOA),
+            { Safe end-to-end transport of classified information (SSL/TLS, Java Cryptography Archi-
+              tecture),
+            { Safe electronic communication channels between city-government and citizen,
+            { Operations monitoring (jmx, HpOpenView)
+03.07-10.07 NAV, Norway, – Norwegian Labour and Welfare Administration.
+            Contracting development – solo assignment - upgrading the clients corporate web application
+            development framework.
+            Technology: JMX, Single Sign On, SAML, Sun iPlanet Federation Manager, Servlets, JSP,
+            EJBs, Hibernate, Spring, Struts, Maven, jUnit, Python scripting, Test driven development
+            URL: www.nav.no
+            Reference: Ida Kristine Dørum, Ida.Kristine.Dorum@nav.no +47 94334486
+12.03-03.07 DnB, Norway, – On-line Banking.
+            Contracting for a team developing a corporate on-line banking Enterprise Java application.
+            Iterative full cycle development – from spec to production. My primary focus was on
+            WebSphere to mainframe connectivity (integration).
+            Technology: On-line Banking Portal, Mainframe legacy, systems integration, WebSphere
+            Admin, J2EE development, JMS, MQ-Series, JDBC, DB2, SQL, XML, jDom, Axis, Web-
+            Services, JCA, CCF, Security, jUnit, Log4J, JavaScript, html, jhtml
+            URL: www.dnb.no/en/business
+            Reference: Tore Frekahug, Tore.Frekhaug@dnbnor.no +47 975 825 65
+
+            Languages
+    English Fluent
+ Norwegian Fluent                                                                       Mothertongue
+   German Basic                                                                   Rusty conversational
+
+            Interests
+            { Ice Hockey                                  { Alpine Skiing
+            { Kayaking                                    { Programming
+
+
+
+
+                                                                                                   7/7
+
