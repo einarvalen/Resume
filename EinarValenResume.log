@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.1.14)  9 JUN 2020 19:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2020.1.14)  1 JUL 2020 22:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -883,13 +883,17 @@ LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <10.95> not available
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
-[4] [5] [6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 315.
+[4]
+
+Package hyperref Warning: Suppressing empty link on input line 191.
+
+[5] [6]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 323.
  [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 315.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 323.
  (./EinarValenResume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 315.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 315.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 323.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 323.
 Package rerunfilecheck Info: File `EinarValenResume.out' has not changed.
 (rerunfilecheck)             Checksum: EBA2B0BB80306B0D5F075B12475CF6F1;2279.
  ) 
@@ -908,7 +912,7 @@ ic/lm/lmss17.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/sha
 re/texmf/fonts/type1/public/lm/lmsso10.pfb></usr/share/texmf/fonts/type1/public
 /lm/lmsso12.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso17.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on EinarValenResume.pdf (7 pages, 443644 bytes).
+Output written on EinarValenResume.pdf (7 pages, 443767 bytes).
 PDF statistics:
  204 PDF objects out of 1000 (max. 8388607)
  181 compressed objects within 2 object streams
